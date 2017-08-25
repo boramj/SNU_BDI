@@ -2,7 +2,7 @@ getwd()
 setwd("/Users/arnorfati/desktop/공모전")
 data_set <- read.csv('Data_set.csv',header = TRUE)
 
-
+ddd
 
 ###### 전체 데이터의 변수의 타입이 int/factor로 구분되어 있지만 일부 수정이 필요########
 
